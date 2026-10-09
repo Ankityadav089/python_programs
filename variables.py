@@ -1,0 +1,21 @@
+name = "Ankit"
+age = 22
+city = "Alwar"
+country = "India"
+course = "BCA"
+semester = 1
+marks = 85
+percentage = 85.5
+height = 5.8
+weight = 60
+is_student = True
+is_passed = True
+college = "Lords University"
+subject = "Python"
+roll_no = 101
+phone = "9876543210"
+fav_color = "Blue"
+fav_food = "Pizza"
+year = 2026
+salary = 25000
+print(name, age, city, country, course, semester, marks, percentage, height, weight, is_student, is_passed, college, subject, roll_no, phone, fav_color, fav_food, year, salary)
